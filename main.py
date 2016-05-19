@@ -3,10 +3,10 @@ import timeit
 import time
 import configparser
 import os
-from classfiles.CreatureClasses import *
+from classfiles.Lighting import *
 
 
-class EcoSim():
+class FishTankLightingControl():
     CreatureList = []
     DayCount = 100000
     AirTemperature = 75
