@@ -1,7 +1,8 @@
 import random
 
-class Creature():
-
+class Lighting():
+    
+    
     CreatureType = 'Creature'
     IsAlive = True
     Age = 0                             #measured in days
